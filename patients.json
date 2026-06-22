@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Rahul Sharma",
+      "age": 32,
+      "gender": "Male",
+      "city": "Delhi",
+      "blood_group": "B+",
+      "disease": "Fever"
+    },
+    {
+      "id": 2,
+      "name": "Priya Singh",
+      "age": 27,
+      "gender": "Female",
+      "city": "Mumbai",
+      "blood_group": "A+",
+      "disease": "Migraine"
+    },
+    {
+      "id": 3,
+      "name": "Amit Kumar",
+      "age": 45,
+      "gender": "Male",
+      "city": "Chandigarh",
+      "blood_group": "O+",
+      "disease": "Diabetes"
+    },
+    {
+      "id": 4,
+      "name": "Neha Verma",
+      "age": 22,
+      "gender": "Female",
+      "city": "Pune",
+      "blood_group": "AB+",
+      "disease": "Asthma"
+    },
+    {
+      "id": 5,
+      "name": "Rohan Gupta",
+      "age": 36,
+      "gender": "Male",
+      "city": "Jaipur",
+      "blood_group": "A-",
+      "disease": "Hypertension"
+    },
+    {
+      "id": 6,
+      "name": "Sneha Kapoor",
+      "age": 29,
+      "gender": "Female",
+      "city": "Bangalore",
+      "blood_group": "O-",
+      "disease": "Allergy"
+    },
+    {
+      "id": 7,
+      "name": "Karan Mehta",
+      "age": 41,
+      "gender": "Male",
+      "city": "Ahmedabad",
+      "blood_group": "B-",
+      "disease": "Arthritis"
+    },
+    {
+      "id": 8,
+      "name": "Anjali Roy",
+      "age": 31,
+      "gender": "Female",
+      "city": "Kolkata",
+      "blood_group": "AB-",
+      "disease": "Thyroid"
+    },
+    {
+      "id": 9,
+      "name": "Vikas Yadav",
+      "age": 38,
+      "gender": "Male",
+      "city": "Lucknow",
+      "blood_group": "O+",
+      "disease": "Back Pain"
+    },
+    {
+      "id": 10,
+      "name": "Meera Joshi",
+      "age": 25,
+      "gender": "Female",
+      "city": "Hyderabad",
+      "blood_group": "A+",
+      "disease": "Anemia"
+    }
+  ]
